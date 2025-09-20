@@ -26,8 +26,6 @@ This system simplifies day-to-day sweet shop operations with a clean UI and secu
 
 ---
 
----
-
 ## 🤖 Use of AI in this Project
 
 I have used AI tools in the following ways, keeping usage neutral and transparent:
@@ -35,7 +33,7 @@ I have used AI tools in the following ways, keeping usage neutral and transparen
 - **Code Assistance:** To generate boilerplate code (e.g., controllers, routes, Redux slices).  
 - **Debugging Support:** To understand errors and suggest possible fixes.  
 - **Documentation:** To refine explanations, improve formatting, and structure this README.  
-- **Best Practices:** To get guidance on project structure, commit conventions, and setup instructions.  
+- **Best Practices:** To get guidance on project structure,and setup instructions.  
 
 All final logic, integrations, and design decisions were implemented and verified by me.
 
