@@ -15,7 +15,7 @@ This system simplifies day-to-day sweet shop operations with a clean UI and secu
 
 ## 📂 Project Structure
 🔗 **Backend Repo:** [Sweet Shop Backend](https://github.com/Rhythmgulati/Sweet_Shop_Backend)  
-🔗 **Frontend Repo:** [Sweet Shop Frontend](https://github.com/Rhythmgulati/Sweet_Store_Frontend)  
+🔗 **Frontend Repo:** [Sweet Shop Frontend](https://github.com/Rhythmgulati/Sweet_Store_Frontend) ** -- 👨‍💻⚙️Work Under Progress **
 
 ---
 
